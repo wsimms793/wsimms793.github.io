@@ -16,6 +16,5 @@ Probability as a formal discipline is relatively new, largely driven by Kolmogor
 
 # What now?
 
-Well right now I suggest taking a look at some of posts or perhaps if your really interested feel free to reach out and you can start writing your own post. 
-
+Well, right now, I suggest taking a look at some of the posts, or perhaps, if you're really interested, feel free to reach out, and you can start writing your own post.
 
