@@ -10,7 +10,7 @@ Lately, mathematics has become a playing ground for large companies such as Open
 
 ## Why Probability?
 
-Probability as a formal discipline is relatively new, largely driven by Kolmogorov in 1933, however its complete history dates back to the gambling questions studied by Pascal. In todays world, probability theory is everywhere including, but not limited to: the theory behind Large-language models (ironically), finance, physics, chemistry, biology, number theory, and statistics. With probability theory we can say an awful lot about a system or object which is random and hence inherently unpredictable. And once you see it in our chaotic world it is difficult to see anything other random processes. This is in some foundational sense true if we consider that Quantum mechanics is fundamentally a probabilistic theory.  
+Probability as a formal discipline is relatively new, largely driven by Kolmogorov in 1933, however its complete history dates back to the gambling questions studied by Pascal in around 1654. In todays world, probability theory is everywhere including, but not limited to: Large-language models (ironically), finance, physics, chemistry, biology, number theory, and statistics. With probability theory we can say an awful lot about a system or object which is random and hence inherently unpredictable. And once you see it is difficult to see anything other than the fruitful theory present in our chaotic world. This is in some foundational sense true if we consider that Quantum mechanics is fundamentally a probabilistic theory.  
 
 ## What now?
 
