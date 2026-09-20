@@ -1,6 +1,6 @@
 # Hello! 
 
-Welcome to $${\color{red}Prob \space \color{blue}Blog}$$, a probability blog. Here, we present human-generated expositions on topics related to probability theory.
+Welcome to Prob Blog, a probability blog. Here, we present human-generated expositions on topics related to probability theory.
 
 # Our Goal
 
