@@ -1,5 +1,12 @@
-Here you can say lots of fun things about your site.
+# Hello! 
 
-Maybe say a some things about yourself.
+Welcome to $${\color{red}Prob \space \color{blue}Blog}$$, a probability blog. Here, we present human-generated expositions on topics related to probability theory.
 
-Or maybe what you plan to blog about.
+# Our Goal
+
+The goal of Prob Blog is three-fold: to encourage human-generated mathematics content, to provide intuitive and introductory explanations for people seeking to learn more about probability, and to offer opportunities for young mathematicians to learn and explain new or familiar mathematical topics.     
+
+
+# Why Human-generated?
+Lately, mathematics has become a playing ground for Large-language models 
+
